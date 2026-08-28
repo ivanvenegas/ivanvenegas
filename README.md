@@ -1,10 +1,10 @@
-# Ivan
+# Hi, I'm Ivan
 
 ### Independent Software Developer
 
 I build software products focused on solving real-world problems.
 
-My work spans native iOS development, web applications, backend systems, APIs, and cloud infrastructure. I enjoy taking products from an idea to production and maintaining them over time.
+I work across iOS, web development, backend systems, and cloud infrastructure. I enjoy turning ideas into useful products, from the first line of code to production.
 
 ---
 
