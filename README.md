@@ -27,7 +27,6 @@ I work across iOS, web development, backend systems, and cloud infrastructure, w
 I build and publish my own software products through AV Software.
 
 - **Mis Deudas** — iOS app for managing debts, recurring payments, and financial commitments.
-- **Waaf** — iOS app for discovering movies and series.
 - **Nove** — app for freelancers to create professional quotations.
 
 ---
